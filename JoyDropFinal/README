@@ -1,5 +1,8 @@
-This project was my grade 11 culminating performance task. 
+This project was our grade 11 culminating performance task. 
 As per the specifications of the assignment, deprecated Applet API was used for the graphics portion.
 OOP was also not permitted which is why the code is somewhat more long-winded than it needed to be.
+
+This project was a collaboration between @adriansinn and @upsicleclown however, since the project was not done using Git,
+the specifics of the collaboration are not shown.
 
 to play the gane run CPTFinal with all the other files in the same folder
